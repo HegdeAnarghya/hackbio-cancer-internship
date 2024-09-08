@@ -28,7 +28,6 @@ To predict the pCR to breast cancer therapy, six ensemble machine learning model
 
 _Figure_ 2: Schematic of the machine learning framework
 
-\
 
 
 ****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXedv4etmssoVGtw9E-y90K_CZ1H6tx7CIGUuXx7AZU-5aVfKs3095EE3HBmiiqR0azQAE3GFjE-r0pYl5stX3ZuGuONQZKdUzHZ-zKTcmz4fOMeenm-pKM3Syp6iJ2J3azZrYvUzT3C0VhSqRpDK5-QW6c9?key=e0Ey5E-E1J9wOhx_UejcnA)****

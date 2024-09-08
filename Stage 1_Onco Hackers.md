@@ -42,7 +42,6 @@ Although individual breast cancer features fail to make effective pCR prediction
 
 1. Sammut, S. J., Crispin-Ortuzar, M., Chin, S. F., Provenzano, E., Bardwell, H. A., Ma, W., ... & Caldas, C. (2022). Multi-omic machine learning predictor of breast cancer therapy response. _Nature_, _601_(7894), 623-629.
 
-\
 
 
 <!--EndFragment-->
